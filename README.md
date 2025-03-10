@@ -1,1 +1,3 @@
-# active_combens
+# active_inference
+このリポジトリは，active inferenceによって，シミュレーションを行うためのコード提供します。
+いつかパッケージとしてリリースしたい。
